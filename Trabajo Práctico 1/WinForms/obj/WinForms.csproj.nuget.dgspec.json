@@ -1,0 +1,145 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Program Files (x86)\\Matias\\UTN\\Tecnologías de Desarrollo de Software IDE\\Proyectos\\Trabajo Práctico 1\\WinForms\\WinForms.csproj": {}
+  },
+  "projects": {
+    "G:\\Program Files (x86)\\Matias\\UTN\\Tecnologías de Desarrollo de Software IDE\\Proyectos\\Trabajo Práctico 1\\Trabajo Práctico 1\\TP1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnologías de Desarrollo de Software IDE\\Proyectos\\Trabajo Práctico 1\\Trabajo Práctico 1\\TP1.csproj",
+        "projectName": "TP1",
+        "projectPath": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnologías de Desarrollo de Software IDE\\Proyectos\\Trabajo Práctico 1\\Trabajo Práctico 1\\TP1.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnologías de Desarrollo de Software IDE\\Proyectos\\Trabajo Práctico 1\\Trabajo Práctico 1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Program Files (x86)\\Matias\\UTN\\Tecnologías de Desarrollo de Software IDE\\Proyectos\\Trabajo Práctico 1\\WinForms\\WinForms.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnologías de Desarrollo de Software IDE\\Proyectos\\Trabajo Práctico 1\\WinForms\\WinForms.csproj",
+        "projectName": "WinForms",
+        "projectPath": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnologías de Desarrollo de Software IDE\\Proyectos\\Trabajo Práctico 1\\WinForms\\WinForms.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnologías de Desarrollo de Software IDE\\Proyectos\\Trabajo Práctico 1\\WinForms\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "G:\\Program Files (x86)\\Matias\\UTN\\Tecnologías de Desarrollo de Software IDE\\Proyectos\\Trabajo Práctico 1\\Trabajo Práctico 1\\TP1.csproj": {
+                "projectPath": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnologías de Desarrollo de Software IDE\\Proyectos\\Trabajo Práctico 1\\Trabajo Práctico 1\\TP1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

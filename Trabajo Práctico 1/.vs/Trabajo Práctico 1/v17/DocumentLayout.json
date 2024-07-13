@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnolog\u00EDas de Desarrollo de Software IDE\\Proyectos\\Trabajo Pr\u00E1ctico 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F28731B-ED0B-4824-A22E-5E1B37E6C2DB}|WinForms\\WinForms.csproj|g:\\program files (x86)\\matias\\utn\\tecnolog\u00EDas de desarrollo de software ide\\proyectos\\trabajo pr\u00E1ctico 1\\winforms\\alumnodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F28731B-ED0B-4824-A22E-5E1B37E6C2DB}|WinForms\\WinForms.csproj|solutionrelative:winforms\\alumnodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F28731B-ED0B-4824-A22E-5E1B37E6C2DB}|WinForms\\WinForms.csproj|G:\\Program Files (x86)\\Matias\\UTN\\Tecnolog\u00EDas de Desarrollo de Software IDE\\Proyectos\\Trabajo Pr\u00E1ctico 1\\winforms\\alumnolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F28731B-ED0B-4824-A22E-5E1B37E6C2DB}|WinForms\\WinForms.csproj|solutionrelative:winforms\\alumnolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C9143E-E871-4615-973D-6658146C5862}|Trabajo Pr\u00E1ctico 1\\TP1.csproj|G:\\Program Files (x86)\\Matias\\UTN\\Tecnolog\u00EDas de Desarrollo de Software IDE\\Proyectos\\Trabajo Pr\u00E1ctico 1\\trabajo pr\u00E1ctico 1\\services\\universidadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C9143E-E871-4615-973D-6658146C5862}|Trabajo Pr\u00E1ctico 1\\TP1.csproj|solutionrelative:trabajo pr\u00E1ctico 1\\services\\universidadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F28731B-ED0B-4824-A22E-5E1B37E6C2DB}|WinForms\\WinForms.csproj|G:\\Program Files (x86)\\Matias\\UTN\\Tecnolog\u00EDas de Desarrollo de Software IDE\\Proyectos\\Trabajo Pr\u00E1ctico 1\\winforms\\alumnolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F28731B-ED0B-4824-A22E-5E1B37E6C2DB}|WinForms\\WinForms.csproj|solutionrelative:winforms\\alumnolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F28731B-ED0B-4824-A22E-5E1B37E6C2DB}|WinForms\\WinForms.csproj|G:\\Program Files (x86)\\Matias\\UTN\\Tecnolog\u00EDas de Desarrollo de Software IDE\\Proyectos\\Trabajo Pr\u00E1ctico 1\\winforms\\alumnodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F28731B-ED0B-4824-A22E-5E1B37E6C2DB}|WinForms\\WinForms.csproj|solutionrelative:winforms\\alumnodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlumnoDetalle.cs",
+              "DocumentMoniker": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnolog\u00EDas de Desarrollo de Software IDE\\Proyectos\\Trabajo Pr\u00E1ctico 1\\WinForms\\AlumnoDetalle.cs",
+              "RelativeDocumentMoniker": "WinForms\\AlumnoDetalle.cs",
+              "ToolTip": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnolog\u00EDas de Desarrollo de Software IDE\\Proyectos\\Trabajo Pr\u00E1ctico 1\\WinForms\\AlumnoDetalle.cs",
+              "RelativeToolTip": "WinForms\\AlumnoDetalle.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:59:17.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlumnoLista.cs",
+              "DocumentMoniker": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnolog\u00EDas de Desarrollo de Software IDE\\Proyectos\\Trabajo Pr\u00E1ctico 1\\WinForms\\AlumnoLista.cs",
+              "RelativeDocumentMoniker": "WinForms\\AlumnoLista.cs",
+              "ToolTip": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnolog\u00EDas de Desarrollo de Software IDE\\Proyectos\\Trabajo Pr\u00E1ctico 1\\WinForms\\AlumnoLista.cs",
+              "RelativeToolTip": "WinForms\\AlumnoLista.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:45:58.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UniversidadService.cs",
+              "DocumentMoniker": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnolog\u00EDas de Desarrollo de Software IDE\\Proyectos\\Trabajo Pr\u00E1ctico 1\\Trabajo Pr\u00E1ctico 1\\Services\\UniversidadService.cs",
+              "RelativeDocumentMoniker": "Trabajo Pr\u00E1ctico 1\\Services\\UniversidadService.cs",
+              "ToolTip": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnolog\u00EDas de Desarrollo de Software IDE\\Proyectos\\Trabajo Pr\u00E1ctico 1\\Trabajo Pr\u00E1ctico 1\\Services\\UniversidadService.cs",
+              "RelativeToolTip": "Trabajo Pr\u00E1ctico 1\\Services\\UniversidadService.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAwEsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:24:56.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlumnoDetalle.cs [Design]",
+              "DocumentMoniker": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnolog\u00EDas de Desarrollo de Software IDE\\Proyectos\\Trabajo Pr\u00E1ctico 1\\WinForms\\AlumnoDetalle.cs",
+              "RelativeDocumentMoniker": "WinForms\\AlumnoDetalle.cs",
+              "ToolTip": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnolog\u00EDas de Desarrollo de Software IDE\\Proyectos\\Trabajo Pr\u00E1ctico 1\\WinForms\\AlumnoDetalle.cs [Design]",
+              "RelativeToolTip": "WinForms\\AlumnoDetalle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:50:14.066Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlumnoLista.cs [Design]",
+              "DocumentMoniker": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnolog\u00EDas de Desarrollo de Software IDE\\Proyectos\\Trabajo Pr\u00E1ctico 1\\WinForms\\AlumnoLista.cs",
+              "RelativeDocumentMoniker": "WinForms\\AlumnoLista.cs",
+              "ToolTip": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnolog\u00EDas de Desarrollo de Software IDE\\Proyectos\\Trabajo Pr\u00E1ctico 1\\WinForms\\AlumnoLista.cs [Design]",
+              "RelativeToolTip": "WinForms\\AlumnoLista.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T17:48:43.632Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
