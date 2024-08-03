@@ -17,6 +17,8 @@ namespace WinForms
 
             Alumno alumno = new Alumno();
 
+            alumno.ProvinciaID = -1;
+
             alumnoDetalle.Alumno = alumno;
 
             alumnoDetalle.ShowDialog();
@@ -84,6 +86,17 @@ namespace WinForms
                 this.eliminarButton.Enabled = false;
                 this.modificarButton.Enabled = false;
             }
+        }
+
+        private void alumnosDataGridView_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void provinciasButton_Click(object sender, EventArgs e)
+        {
+            ProvinciaLista provinciaLista = new ProvinciaLista();
+            provinciaLista.Show();
         }
     }
 }

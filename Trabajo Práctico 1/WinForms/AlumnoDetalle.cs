@@ -7,12 +7,13 @@ namespace WindowsForms
     public partial class AlumnoDetalle : Form
     {
         private Alumno alumno;
+        private IEnumerable<Provincia> provincias;
 
         public Alumno Alumno
         {
             get { return alumno; }
-            set 
-            { 
+            set
+            {
                 alumno = value;
                 this.SetAlumno();
             }
@@ -34,6 +35,7 @@ namespace WindowsForms
                 this.Alumno.Apellido = apellidoTextBox.Text;
                 this.Alumno.Legajo = legajoTextBox.Text;
                 this.Alumno.Direccion = direccionTextBox.Text;
+                this.Alumno.ProvinciaID = this.provincias.ElementAt(provinciaBox.SelectedIndex).Id;
 
                 if (this.EditMode)
                 {
@@ -55,10 +57,15 @@ namespace WindowsForms
 
         private void SetAlumno()
         {
+            ProvinciaService provService = new ProvinciaService();
             this.apellidoTextBox.Text = this.Alumno.Apellido;
             this.nombreTextBox.Text = this.Alumno.Nombre;
             this.legajoTextBox.Text = this.Alumno.Legajo;
             this.direccionTextBox.Text = this.Alumno.Direccion;
+            if(this.Alumno.ProvinciaID != -1)
+            {
+                this.provinciaBox.Text = provService.Get(this.Alumno.ProvinciaID).Nombre;
+            }
         }
 
         private bool ValidateAlumno()
@@ -69,6 +76,7 @@ namespace WindowsForms
             errorProvider.SetError(apellidoTextBox, string.Empty);
             errorProvider.SetError(legajoTextBox, string.Empty);
             errorProvider.SetError(direccionTextBox, string.Empty);
+            errorProvider.SetError(provinciaBox, string.Empty);
 
             if (this.nombreTextBox.Text == string.Empty)
             {
@@ -100,9 +108,24 @@ namespace WindowsForms
                 errorProvider.SetError(direccionTextBox, "La Direccion es requerida");
             }
 
+            if (this.provinciaBox.Text == string.Empty)
+            {
+                isValid = false;
+                errorProvider.SetError(provinciaBox, "La Provincia es requerida");
+            }
             return isValid;
         }
 
- 
+        private void AlumnoDetalle_Load(object sender, EventArgs e)
+        {
+            ProvinciaService provService = new ProvinciaService();
+
+            this.provincias = provService.GetAll();
+            foreach (Provincia provincia in this.provincias)
+            {
+                this.provinciaBox.Items.Add(provincia.Nombre);
+            }
+
+        }
     }
 }

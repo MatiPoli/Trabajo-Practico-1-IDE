@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Program Files (x86)\\Matias\\UTN\\Tecnologías de Desarrollo de Software IDE\\Proyectos\\Trabajo Práctico 1\\WinForms\\WinForms.csproj": {}
+    "C:\\Users\\veron\\Desktop\\Matias\\Trabajo-Practico-1-IDE\\Trabajo Práctico 1\\WinForms\\WinForms.csproj": {}
   },
   "projects": {
-    "G:\\Program Files (x86)\\Matias\\UTN\\Tecnologías de Desarrollo de Software IDE\\Proyectos\\Trabajo Práctico 1\\Trabajo Práctico 1\\TP1.csproj": {
+    "C:\\Users\\veron\\Desktop\\Matias\\Trabajo-Practico-1-IDE\\Trabajo Práctico 1\\Trabajo Práctico 1\\TP1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnologías de Desarrollo de Software IDE\\Proyectos\\Trabajo Práctico 1\\Trabajo Práctico 1\\TP1.csproj",
+        "projectUniqueName": "C:\\Users\\veron\\Desktop\\Matias\\Trabajo-Practico-1-IDE\\Trabajo Práctico 1\\Trabajo Práctico 1\\TP1.csproj",
         "projectName": "TP1",
-        "projectPath": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnologías de Desarrollo de Software IDE\\Proyectos\\Trabajo Práctico 1\\Trabajo Práctico 1\\TP1.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnologías de Desarrollo de Software IDE\\Proyectos\\Trabajo Práctico 1\\Trabajo Práctico 1\\obj\\",
+        "projectPath": "C:\\Users\\veron\\Desktop\\Matias\\Trabajo-Practico-1-IDE\\Trabajo Práctico 1\\Trabajo Práctico 1\\TP1.csproj",
+        "packagesPath": "C:\\Users\\veron\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\veron\\Desktop\\Matias\\Trabajo-Practico-1-IDE\\Trabajo Práctico 1\\Trabajo Práctico 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\veron\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -70,21 +71,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "G:\\Program Files (x86)\\Matias\\UTN\\Tecnologías de Desarrollo de Software IDE\\Proyectos\\Trabajo Práctico 1\\WinForms\\WinForms.csproj": {
+    "C:\\Users\\veron\\Desktop\\Matias\\Trabajo-Practico-1-IDE\\Trabajo Práctico 1\\WinForms\\WinForms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnologías de Desarrollo de Software IDE\\Proyectos\\Trabajo Práctico 1\\WinForms\\WinForms.csproj",
+        "projectUniqueName": "C:\\Users\\veron\\Desktop\\Matias\\Trabajo-Practico-1-IDE\\Trabajo Práctico 1\\WinForms\\WinForms.csproj",
         "projectName": "WinForms",
-        "projectPath": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnologías de Desarrollo de Software IDE\\Proyectos\\Trabajo Práctico 1\\WinForms\\WinForms.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnologías de Desarrollo de Software IDE\\Proyectos\\Trabajo Práctico 1\\WinForms\\obj\\",
+        "projectPath": "C:\\Users\\veron\\Desktop\\Matias\\Trabajo-Practico-1-IDE\\Trabajo Práctico 1\\WinForms\\WinForms.csproj",
+        "packagesPath": "C:\\Users\\veron\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\veron\\Desktop\\Matias\\Trabajo-Practico-1-IDE\\Trabajo Práctico 1\\WinForms\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\veron\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -92,14 +93,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "G:\\Program Files (x86)\\Matias\\UTN\\Tecnologías de Desarrollo de Software IDE\\Proyectos\\Trabajo Práctico 1\\Trabajo Práctico 1\\TP1.csproj": {
-                "projectPath": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnologías de Desarrollo de Software IDE\\Proyectos\\Trabajo Práctico 1\\Trabajo Práctico 1\\TP1.csproj"
+              "C:\\Users\\veron\\Desktop\\Matias\\Trabajo-Practico-1-IDE\\Trabajo Práctico 1\\Trabajo Práctico 1\\TP1.csproj": {
+                "projectPath": "C:\\Users\\veron\\Desktop\\Matias\\Trabajo-Practico-1-IDE\\Trabajo Práctico 1\\Trabajo Práctico 1\\TP1.csproj"
               }
             }
           }
@@ -137,7 +139,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

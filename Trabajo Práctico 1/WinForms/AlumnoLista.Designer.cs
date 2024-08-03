@@ -32,12 +32,13 @@
             modificarButton = new Button();
             agregarButton = new Button();
             alumnosDataGridView = new DataGridView();
+            provinciasButton = new Button();
             ((System.ComponentModel.ISupportInitialize)alumnosDataGridView).BeginInit();
             SuspendLayout();
             // 
             // eliminarButton
             // 
-            eliminarButton.Location = new Point(537, 402);
+            eliminarButton.Location = new Point(522, 429);
             eliminarButton.Margin = new Padding(2, 1, 2, 1);
             eliminarButton.Name = "eliminarButton";
             eliminarButton.Size = new Size(81, 22);
@@ -48,7 +49,7 @@
             // 
             // modificarButton
             // 
-            modificarButton.Location = new Point(622, 402);
+            modificarButton.Location = new Point(607, 429);
             modificarButton.Margin = new Padding(2, 1, 2, 1);
             modificarButton.Name = "modificarButton";
             modificarButton.Size = new Size(81, 22);
@@ -59,7 +60,7 @@
             // 
             // agregarButton
             // 
-            agregarButton.Location = new Point(707, 402);
+            agregarButton.Location = new Point(692, 429);
             agregarButton.Margin = new Padding(2, 1, 2, 1);
             agregarButton.Name = "agregarButton";
             agregarButton.Size = new Size(81, 22);
@@ -78,14 +79,26 @@
             alumnosDataGridView.Name = "alumnosDataGridView";
             alumnosDataGridView.ReadOnly = true;
             alumnosDataGridView.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
-            alumnosDataGridView.Size = new Size(776, 386);
+            alumnosDataGridView.Size = new Size(760, 413);
             alumnosDataGridView.TabIndex = 6;
+            alumnosDataGridView.CellContentClick += alumnosDataGridView_CellContentClick;
+            // 
+            // provinciasButton
+            // 
+            provinciasButton.Location = new Point(12, 431);
+            provinciasButton.Name = "provinciasButton";
+            provinciasButton.Size = new Size(115, 23);
+            provinciasButton.TabIndex = 7;
+            provinciasButton.Text = "Listado Provincias";
+            provinciasButton.UseVisualStyleBackColor = true;
+            provinciasButton.Click += provinciasButton_Click;
             // 
             // AlumnoLista
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(784, 461);
+            Controls.Add(provinciasButton);
             Controls.Add(alumnosDataGridView);
             Controls.Add(agregarButton);
             Controls.Add(modificarButton);
@@ -104,5 +117,6 @@
         private Button modificarButton;
         private Button agregarButton;
         private DataGridView alumnosDataGridView;
+        private Button provinciasButton;
     }
 }

@@ -41,6 +41,8 @@
             legajoTextBox = new TextBox();
             direccionTextBox = new TextBox();
             errorProvider1 = new ErrorProvider(components);
+            provinciaBox = new ComboBox();
+            label5 = new Label();
             ((System.ComponentModel.ISupportInitialize)errorProvider).BeginInit();
             ((System.ComponentModel.ISupportInitialize)errorProvider1).BeginInit();
             SuspendLayout();
@@ -51,15 +53,15 @@
             nombreTextBox.Margin = new Padding(2, 1, 2, 1);
             nombreTextBox.Name = "nombreTextBox";
             nombreTextBox.Size = new Size(110, 23);
-            nombreTextBox.TabIndex = 0;
+            nombreTextBox.TabIndex = 2;
             // 
             // aceptarButton
             // 
-            aceptarButton.Location = new Point(24, 172);
+            aceptarButton.Location = new Point(24, 208);
             aceptarButton.Margin = new Padding(2, 1, 2, 1);
             aceptarButton.Name = "aceptarButton";
             aceptarButton.Size = new Size(81, 22);
-            aceptarButton.TabIndex = 2;
+            aceptarButton.TabIndex = 6;
             aceptarButton.Text = "Aceptar";
             aceptarButton.UseVisualStyleBackColor = true;
             aceptarButton.Click += aceptarButton_Click;
@@ -70,11 +72,11 @@
             // 
             // cancelarButton
             // 
-            cancelarButton.Location = new Point(129, 172);
+            cancelarButton.Location = new Point(129, 208);
             cancelarButton.Margin = new Padding(2, 1, 2, 1);
             cancelarButton.Name = "cancelarButton";
             cancelarButton.Size = new Size(81, 22);
-            cancelarButton.TabIndex = 3;
+            cancelarButton.TabIndex = 7;
             cancelarButton.Text = "Cancelar";
             cancelarButton.UseVisualStyleBackColor = true;
             cancelarButton.Click += cancelarButton_Click;
@@ -125,7 +127,7 @@
             apellidoTextBox.Margin = new Padding(2, 1, 2, 1);
             apellidoTextBox.Name = "apellidoTextBox";
             apellidoTextBox.Size = new Size(110, 23);
-            apellidoTextBox.TabIndex = 8;
+            apellidoTextBox.TabIndex = 1;
             // 
             // legajoTextBox
             // 
@@ -133,7 +135,7 @@
             legajoTextBox.Margin = new Padding(2, 1, 2, 1);
             legajoTextBox.Name = "legajoTextBox";
             legajoTextBox.Size = new Size(110, 23);
-            legajoTextBox.TabIndex = 9;
+            legajoTextBox.TabIndex = 3;
             // 
             // direccionTextBox
             // 
@@ -141,17 +143,37 @@
             direccionTextBox.Margin = new Padding(2, 1, 2, 1);
             direccionTextBox.Name = "direccionTextBox";
             direccionTextBox.Size = new Size(110, 23);
-            direccionTextBox.TabIndex = 10;
+            direccionTextBox.TabIndex = 4;
             // 
             // errorProvider1
             // 
             errorProvider1.ContainerControl = this;
             // 
+            // provinciaBox
+            // 
+            provinciaBox.FormattingEnabled = true;
+            provinciaBox.Location = new Point(100, 164);
+            provinciaBox.Name = "provinciaBox";
+            provinciaBox.Size = new Size(110, 23);
+            provinciaBox.TabIndex = 5;
+            // 
+            // label5
+            // 
+            label5.AutoSize = true;
+            label5.Location = new Point(24, 167);
+            label5.Margin = new Padding(2, 0, 2, 0);
+            label5.Name = "label5";
+            label5.Size = new Size(56, 15);
+            label5.TabIndex = 9;
+            label5.Text = "Provincia";
+            // 
             // AlumnoDetalle
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(238, 211);
+            ClientSize = new Size(234, 246);
+            Controls.Add(label5);
+            Controls.Add(provinciaBox);
             Controls.Add(direccionTextBox);
             Controls.Add(legajoTextBox);
             Controls.Add(apellidoTextBox);
@@ -167,6 +189,7 @@
             Name = "AlumnoDetalle";
             StartPosition = FormStartPosition.CenterParent;
             Text = "Alumno";
+            Load += AlumnoDetalle_Load;
             ((System.ComponentModel.ISupportInitialize)errorProvider).EndInit();
             ((System.ComponentModel.ISupportInitialize)errorProvider1).EndInit();
             ResumeLayout(false);
@@ -187,5 +210,7 @@
         private TextBox legajoTextBox;
         private TextBox apellidoTextBox;
         private ErrorProvider errorProvider1;
+        private Label label5;
+        private ComboBox provinciaBox;
     }
 }

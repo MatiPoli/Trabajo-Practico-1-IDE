@@ -1,26 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnolog\u00EDas de Desarrollo de Software IDE\\Proyectos\\Trabajo Pr\u00E1ctico 1\\",
+  "WorkspaceRootPath": "C:\\Users\\veron\\Desktop\\Matias\\Trabajo-Practico-1-IDE\\Trabajo Pr\u00E1ctico 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F28731B-ED0B-4824-A22E-5E1B37E6C2DB}|WinForms\\WinForms.csproj|g:\\program files (x86)\\matias\\utn\\tecnolog\u00EDas de desarrollo de software ide\\proyectos\\trabajo pr\u00E1ctico 1\\winforms\\alumnodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F28731B-ED0B-4824-A22E-5E1B37E6C2DB}|WinForms\\WinForms.csproj|solutionrelative:winforms\\alumnodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F28731B-ED0B-4824-A22E-5E1B37E6C2DB}|WinForms\\WinForms.csproj|G:\\Program Files (x86)\\Matias\\UTN\\Tecnolog\u00EDas de Desarrollo de Software IDE\\Proyectos\\Trabajo Pr\u00E1ctico 1\\winforms\\alumnolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F28731B-ED0B-4824-A22E-5E1B37E6C2DB}|WinForms\\WinForms.csproj|solutionrelative:winforms\\alumnolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51C9143E-E871-4615-973D-6658146C5862}|Trabajo Pr\u00E1ctico 1\\TP1.csproj|G:\\Program Files (x86)\\Matias\\UTN\\Tecnolog\u00EDas de Desarrollo de Software IDE\\Proyectos\\Trabajo Pr\u00E1ctico 1\\trabajo pr\u00E1ctico 1\\services\\universidadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{51C9143E-E871-4615-973D-6658146C5862}|Trabajo Pr\u00E1ctico 1\\TP1.csproj|c:\\users\\veron\\desktop\\matias\\trabajo-practico-1-ide\\trabajo pr\u00E1ctico 1\\trabajo pr\u00E1ctico 1\\services\\universidadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51C9143E-E871-4615-973D-6658146C5862}|Trabajo Pr\u00E1ctico 1\\TP1.csproj|solutionrelative:trabajo pr\u00E1ctico 1\\services\\universidadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F28731B-ED0B-4824-A22E-5E1B37E6C2DB}|WinForms\\WinForms.csproj|G:\\Program Files (x86)\\Matias\\UTN\\Tecnolog\u00EDas de Desarrollo de Software IDE\\Proyectos\\Trabajo Pr\u00E1ctico 1\\winforms\\alumnolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5F28731B-ED0B-4824-A22E-5E1B37E6C2DB}|WinForms\\WinForms.csproj|solutionrelative:winforms\\alumnolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5F28731B-ED0B-4824-A22E-5E1B37E6C2DB}|WinForms\\WinForms.csproj|c:\\users\\veron\\desktop\\matias\\trabajo-practico-1-ide\\trabajo pr\u00E1ctico 1\\winforms\\alumnodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F28731B-ED0B-4824-A22E-5E1B37E6C2DB}|WinForms\\WinForms.csproj|solutionrelative:winforms\\alumnodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F28731B-ED0B-4824-A22E-5E1B37E6C2DB}|WinForms\\WinForms.csproj|G:\\Program Files (x86)\\Matias\\UTN\\Tecnolog\u00EDas de Desarrollo de Software IDE\\Proyectos\\Trabajo Pr\u00E1ctico 1\\winforms\\alumnodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5F28731B-ED0B-4824-A22E-5E1B37E6C2DB}|WinForms\\WinForms.csproj|c:\\users\\veron\\desktop\\matias\\trabajo-practico-1-ide\\trabajo pr\u00E1ctico 1\\winforms\\alumnolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F28731B-ED0B-4824-A22E-5E1B37E6C2DB}|WinForms\\WinForms.csproj|solutionrelative:winforms\\alumnolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C9143E-E871-4615-973D-6658146C5862}|Trabajo Pr\u00E1ctico 1\\TP1.csproj|c:\\users\\veron\\desktop\\matias\\trabajo-practico-1-ide\\trabajo pr\u00E1ctico 1\\trabajo pr\u00E1ctico 1\\services\\provinciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C9143E-E871-4615-973D-6658146C5862}|Trabajo Pr\u00E1ctico 1\\TP1.csproj|solutionrelative:trabajo pr\u00E1ctico 1\\services\\provinciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F28731B-ED0B-4824-A22E-5E1B37E6C2DB}|WinForms\\WinForms.csproj|C:\\Users\\veron\\Desktop\\Matias\\Trabajo-Practico-1-IDE\\Trabajo Pr\u00E1ctico 1\\winforms\\alumnodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5F28731B-ED0B-4824-A22E-5E1B37E6C2DB}|WinForms\\WinForms.csproj|solutionrelative:winforms\\alumnodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C9143E-E871-4615-973D-6658146C5862}|Trabajo Pr\u00E1ctico 1\\TP1.csproj|c:\\users\\veron\\desktop\\matias\\trabajo-practico-1-ide\\trabajo pr\u00E1ctico 1\\trabajo pr\u00E1ctico 1\\model\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C9143E-E871-4615-973D-6658146C5862}|Trabajo Pr\u00E1ctico 1\\TP1.csproj|solutionrelative:trabajo pr\u00E1ctico 1\\model\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F28731B-ED0B-4824-A22E-5E1B37E6C2DB}|WinForms\\WinForms.csproj|c:\\users\\veron\\desktop\\matias\\trabajo-practico-1-ide\\trabajo pr\u00E1ctico 1\\winforms\\provincialista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F28731B-ED0B-4824-A22E-5E1B37E6C2DB}|WinForms\\WinForms.csproj|solutionrelative:winforms\\provincialista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F28731B-ED0B-4824-A22E-5E1B37E6C2DB}|WinForms\\WinForms.csproj|c:\\users\\veron\\desktop\\matias\\trabajo-practico-1-ide\\trabajo pr\u00E1ctico 1\\winforms\\provincialista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F28731B-ED0B-4824-A22E-5E1B37E6C2DB}|WinForms\\WinForms.csproj|solutionrelative:winforms\\provincialista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,70 +42,109 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AlumnoDetalle.cs",
-              "DocumentMoniker": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnolog\u00EDas de Desarrollo de Software IDE\\Proyectos\\Trabajo Pr\u00E1ctico 1\\WinForms\\AlumnoDetalle.cs",
-              "RelativeDocumentMoniker": "WinForms\\AlumnoDetalle.cs",
-              "ToolTip": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnolog\u00EDas de Desarrollo de Software IDE\\Proyectos\\Trabajo Pr\u00E1ctico 1\\WinForms\\AlumnoDetalle.cs",
-              "RelativeToolTip": "WinForms\\AlumnoDetalle.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAowBkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T17:59:17.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AlumnoLista.cs",
-              "DocumentMoniker": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnolog\u00EDas de Desarrollo de Software IDE\\Proyectos\\Trabajo Pr\u00E1ctico 1\\WinForms\\AlumnoLista.cs",
-              "RelativeDocumentMoniker": "WinForms\\AlumnoLista.cs",
-              "ToolTip": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnolog\u00EDas de Desarrollo de Software IDE\\Proyectos\\Trabajo Pr\u00E1ctico 1\\WinForms\\AlumnoLista.cs",
-              "RelativeToolTip": "WinForms\\AlumnoLista.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAEkAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T17:45:58.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UniversidadService.cs",
-              "DocumentMoniker": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnolog\u00EDas de Desarrollo de Software IDE\\Proyectos\\Trabajo Pr\u00E1ctico 1\\Trabajo Pr\u00E1ctico 1\\Services\\UniversidadService.cs",
-              "RelativeDocumentMoniker": "Trabajo Pr\u00E1ctico 1\\Services\\UniversidadService.cs",
-              "ToolTip": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnolog\u00EDas de Desarrollo de Software IDE\\Proyectos\\Trabajo Pr\u00E1ctico 1\\Trabajo Pr\u00E1ctico 1\\Services\\UniversidadService.cs",
-              "RelativeToolTip": "Trabajo Pr\u00E1ctico 1\\Services\\UniversidadService.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAAwEsAAAAJAAAA",
+              "Title": "AlumnoLista.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\Matias\\Trabajo-Practico-1-IDE\\Trabajo Pr\u00E1ctico 1\\WinForms\\AlumnoLista.cs",
+              "RelativeDocumentMoniker": "WinForms\\AlumnoLista.cs",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\Matias\\Trabajo-Practico-1-IDE\\Trabajo Pr\u00E1ctico 1\\WinForms\\AlumnoLista.cs",
+              "RelativeToolTip": "WinForms\\AlumnoLista.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBEAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T17:24:56.375Z",
+              "WhenOpened": "2024-08-03T22:35:27.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UniversidadService.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\Matias\\Trabajo-Practico-1-IDE\\Trabajo Pr\u00E1ctico 1\\Trabajo Pr\u00E1ctico 1\\Services\\UniversidadService.cs",
+              "RelativeDocumentMoniker": "Trabajo Pr\u00E1ctico 1\\Services\\UniversidadService.cs",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\Matias\\Trabajo-Practico-1-IDE\\Trabajo Pr\u00E1ctico 1\\Trabajo Pr\u00E1ctico 1\\Services\\UniversidadService.cs",
+              "RelativeToolTip": "Trabajo Pr\u00E1ctico 1\\Services\\UniversidadService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwBUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T22:29:42.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\Matias\\Trabajo-Practico-1-IDE\\Trabajo Pr\u00E1ctico 1\\Trabajo Pr\u00E1ctico 1\\Model\\Alumno.cs",
+              "RelativeDocumentMoniker": "Trabajo Pr\u00E1ctico 1\\Model\\Alumno.cs",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\Matias\\Trabajo-Practico-1-IDE\\Trabajo Pr\u00E1ctico 1\\Trabajo Pr\u00E1ctico 1\\Model\\Alumno.cs",
+              "RelativeToolTip": "Trabajo Pr\u00E1ctico 1\\Model\\Alumno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T22:20:17.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProvinciaService.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\Matias\\Trabajo-Practico-1-IDE\\Trabajo Pr\u00E1ctico 1\\Trabajo Pr\u00E1ctico 1\\Services\\ProvinciaService.cs",
+              "RelativeDocumentMoniker": "Trabajo Pr\u00E1ctico 1\\Services\\ProvinciaService.cs",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\Matias\\Trabajo-Practico-1-IDE\\Trabajo Pr\u00E1ctico 1\\Trabajo Pr\u00E1ctico 1\\Services\\ProvinciaService.cs",
+              "RelativeToolTip": "Trabajo Pr\u00E1ctico 1\\Services\\ProvinciaService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAmwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T22:05:16.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "AlumnoDetalle.cs [Design]",
-              "DocumentMoniker": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnolog\u00EDas de Desarrollo de Software IDE\\Proyectos\\Trabajo Pr\u00E1ctico 1\\WinForms\\AlumnoDetalle.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\Matias\\Trabajo-Practico-1-IDE\\Trabajo Pr\u00E1ctico 1\\WinForms\\AlumnoDetalle.cs",
               "RelativeDocumentMoniker": "WinForms\\AlumnoDetalle.cs",
-              "ToolTip": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnolog\u00EDas de Desarrollo de Software IDE\\Proyectos\\Trabajo Pr\u00E1ctico 1\\WinForms\\AlumnoDetalle.cs [Design]",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\Matias\\Trabajo-Practico-1-IDE\\Trabajo Pr\u00E1ctico 1\\WinForms\\AlumnoDetalle.cs [Design]",
               "RelativeToolTip": "WinForms\\AlumnoDetalle.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T17:50:14.066Z",
+              "WhenOpened": "2024-08-03T00:36:00.196Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AlumnoLista.cs [Design]",
-              "DocumentMoniker": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnolog\u00EDas de Desarrollo de Software IDE\\Proyectos\\Trabajo Pr\u00E1ctico 1\\WinForms\\AlumnoLista.cs",
-              "RelativeDocumentMoniker": "WinForms\\AlumnoLista.cs",
-              "ToolTip": "G:\\Program Files (x86)\\Matias\\UTN\\Tecnolog\u00EDas de Desarrollo de Software IDE\\Proyectos\\Trabajo Pr\u00E1ctico 1\\WinForms\\AlumnoLista.cs [Design]",
-              "RelativeToolTip": "WinForms\\AlumnoLista.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "AlumnoDetalle.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\Matias\\Trabajo-Practico-1-IDE\\Trabajo Pr\u00E1ctico 1\\WinForms\\AlumnoDetalle.cs",
+              "RelativeDocumentMoniker": "WinForms\\AlumnoDetalle.cs",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\Matias\\Trabajo-Practico-1-IDE\\Trabajo Pr\u00E1ctico 1\\WinForms\\AlumnoDetalle.cs",
+              "RelativeToolTip": "WinForms\\AlumnoDetalle.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAEwEAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-13T17:48:43.632Z",
+              "WhenOpened": "2024-08-02T21:47:24.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProvinciaLista.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\Matias\\Trabajo-Practico-1-IDE\\Trabajo Pr\u00E1ctico 1\\WinForms\\ProvinciaLista.cs",
+              "RelativeDocumentMoniker": "WinForms\\ProvinciaLista.cs",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\Matias\\Trabajo-Practico-1-IDE\\Trabajo Pr\u00E1ctico 1\\WinForms\\ProvinciaLista.cs [Design]",
+              "RelativeToolTip": "WinForms\\ProvinciaLista.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T21:01:23.239Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProvinciaLista.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\Desktop\\Matias\\Trabajo-Practico-1-IDE\\Trabajo Pr\u00E1ctico 1\\WinForms\\ProvinciaLista.cs",
+              "RelativeDocumentMoniker": "WinForms\\ProvinciaLista.cs",
+              "ToolTip": "C:\\Users\\veron\\Desktop\\Matias\\Trabajo-Practico-1-IDE\\Trabajo Pr\u00E1ctico 1\\WinForms\\ProvinciaLista.cs",
+              "RelativeToolTip": "WinForms\\ProvinciaLista.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAA8wFIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T19:33:20.308Z",
+              "EditorCaption": ""
             }
           ]
         }

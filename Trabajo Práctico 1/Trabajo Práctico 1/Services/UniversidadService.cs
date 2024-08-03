@@ -9,6 +9,8 @@ namespace Trabajo_Práctico_1.Services
     internal class UniversidadContext : DbContext
     {
         public DbSet<Alumno> Alumnos { get; set; }
+        public DbSet<Provincia> Provincias { get; set; }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(@"Server=(localdb)\MSSQLLocalDB;Initial Catalog=Universidad;Integrated Security=true");
@@ -17,6 +19,7 @@ namespace Trabajo_Práctico_1.Services
 
         public UniversidadContext()
         {
+            //this.Database.EnsureDeleted();
             this.Database.EnsureCreated();
         }
 
