@@ -57,13 +57,13 @@ namespace WindowsForms
 
         private void SetAlumno()
         {
-            ProvinciaService provService = new ProvinciaService();
-            this.apellidoTextBox.Text = this.Alumno.Apellido;
-            this.nombreTextBox.Text = this.Alumno.Nombre;
-            this.legajoTextBox.Text = this.Alumno.Legajo;
-            this.direccionTextBox.Text = this.Alumno.Direccion;
-            if(this.Alumno.ProvinciaID != -1)
+            if (this.EditMode)
             {
+                ProvinciaService provService = new ProvinciaService();
+                this.apellidoTextBox.Text = this.Alumno.Apellido;
+                this.nombreTextBox.Text = this.Alumno.Nombre;
+                this.legajoTextBox.Text = this.Alumno.Legajo;
+                this.direccionTextBox.Text = this.Alumno.Direccion;          
                 this.provinciaBox.Text = provService.Get(this.Alumno.ProvinciaID).Nombre;
             }
         }
@@ -112,6 +112,11 @@ namespace WindowsForms
             {
                 isValid = false;
                 errorProvider.SetError(provinciaBox, "La Provincia es requerida");
+            }
+            else if (this.provinciaBox.SelectedIndex == -1)
+            {
+                isValid = false;
+                errorProvider.SetError(provinciaBox, "La Provincia no existe");
             }
             return isValid;
         }
