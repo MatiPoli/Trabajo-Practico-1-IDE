@@ -1,5 +1,5 @@
-using Trabajo_Pr·ctico_1.Model;
-using Trabajo_Pr·ctico_1.Services;
+using Trabajo_Pr√°ctico_1.Model;
+using Trabajo_Pr√°ctico_1.Services;
 using WindowsForms;
 
 namespace WinForms
@@ -16,8 +16,6 @@ namespace WinForms
             AlumnoDetalle alumnoDetalle = new AlumnoDetalle();
 
             Alumno alumno = new Alumno();
-
-            alumno.ProvinciaID = -1;
 
             alumnoDetalle.Alumno = alumno;
 
